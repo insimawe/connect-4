@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Goal: 
+ - Player will win if the player get the correct pattern (row, columns and diagonal)
+
+Condition: 
+ - Player should not be able to click each other circles again
+ - Player should  not be able to click the circle if its already have a winner
+ - If no one will ever win the game, the game should be draw 
+ 
