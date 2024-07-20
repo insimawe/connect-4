@@ -1,6 +1,10 @@
 # Connect 4
 Connect 4 is a classic two-player connection game where the objective is to be the first to align four of your colored discs in a row, vertically, horizontally, or diagonally on a 4x4 grid.
 
+Project summary:
+ - introduce some of the important concepts to learn React 
+ - hooks and react, useEffect, useState,callbacks, props, dynamic styling and classes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
